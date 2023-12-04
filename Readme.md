@@ -6,7 +6,7 @@ Este proyecto utiliza Python 3. Asegúrate de tenerlo instalado en tu sistema.
 
 ### Instalación
 
-1. Clona este repositorio.
+1. Clona o crea un Template de este repositorio.
 2. Navega al directorio del proyecto.
 3. Crea un entorno virtual:
 
