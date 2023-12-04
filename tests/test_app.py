@@ -1,4 +1,4 @@
-from app import suma
+from main import suma
 
 def test_always_passes():
     assert True
